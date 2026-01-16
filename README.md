@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="drapeg.gif" width="75%" alt="Header Animation" />
+  <img src="drapeg.gif" width="50%" alt="Header Animation" />
 </div>
 
 
