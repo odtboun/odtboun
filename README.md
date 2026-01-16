@@ -4,7 +4,7 @@
 
 
 
-I am building things I find interesting and exciting. I started coding in 2018, mostly focused on data science and Python automations for the first few years. My full-time roles were not primarily focused on coding.
+I am building things I find interesting and exciting. I started coding in 2018, mostly focused on data science and Python automations for the first few years. Worked part-time as a teaching assistant for a coding class but my full-time roles were not primarily focused on coding.
 
 Since early 2025, I've been focusing on building experimental products full-time, from simpler learning projects to more ambitious ones. I am heavily using coding agents for these.
 
