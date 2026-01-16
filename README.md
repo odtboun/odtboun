@@ -1,4 +1,6 @@
-![Header Animation](drapeg.gif)
+<div align="center">
+  <img src="drapeg.gif" width="75%" alt="Header Animation" />
+</div>
 
 
 
